@@ -1,7 +1,7 @@
 Olá, eu sou o Pedro Ferreira e faço parte da Yellow Dev 👋
 
-- 🔭 Estou aprendendo tecnologias frontend
-- 🌱 Estudando: Angular & React
+ 🔭 Estou aprendendo tecnologias frontend
+ 🌱 Estudando: Angular & React
 
 
 <div align="center">
