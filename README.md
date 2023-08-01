@@ -1,7 +1,7 @@
 Olá, eu sou o Pedro Ferreira e faço parte da Yellow Dev 👋
 
  🔭 Estou aprendendo tecnologias frontend <br>
- 🌱 Estudando: Angular & React
+ 🌱 HTML, CSS, JS, JQUERY, Bootstrap, SASS/SCSS & React
 
 
 <div align="center">
