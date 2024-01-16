@@ -1,8 +1,16 @@
-Olá, eu sou o Pedro Ferreira e faço parte da Yellow Dev 👋
+Olá, me chamo Pedro Ferreira e faço parte da Yellow Dev ⚡
 
- 🔭 Estou aprendendo tecnologias frontend <br>
- 🌱 HTML, CSS, JS, JQUERY, Bootstrap, SASS/SCSS & React
-
+ 💻 Desenvolvedor Junior Frontend Full Stack <br>
+  🟨 HTML 
+  🟨 CSS 
+  🟨 JS
+  🟨 Jquery
+  🟨 Bootstrap
+  🟨 SASS/SCSS
+  🟨 MongoDB 
+  🟨 PHP
+  🟨 React
+  🟨 Typescript
 
 <div align="center">
   <a href="https://beacons.ai/yellowdev">
