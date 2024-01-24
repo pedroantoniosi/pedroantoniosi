@@ -5,12 +5,12 @@ Olá, me chamo Pedro Ferreira e faço parte da Yellow Dev ⚡
   🟨 CSS 
   🟨 JS
   🟨 Jquery
+  🟨 NextJS
+  🟨 React
   🟨 Bootstrap
   🟨 SASS/SCSS
-  🟨 MongoDB 
   🟨 PHP
-  🟨 React
-  🟨 Typescript
+  🟨 SQL e PostgreSQL
 
 <div align="center">
   <a href="https://beacons.ai/yellowdev">
