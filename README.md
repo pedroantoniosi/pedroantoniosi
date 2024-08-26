@@ -5,11 +5,11 @@ Olá, me chamo Pedro Ferreira e faço parte da Yellow Dev ⚡
   🟨 CSS 
   🟨 JS
   🟨 Jquery
+  🟨 VueJS
   🟨 NextJS
   🟨 React
   🟨 Bootstrap
-  🟨 SASS/SCSS
-  🟨 PHP
+  🟨 SASS
   🟨 SQL e PostgreSQL
 
 <div align="center">
