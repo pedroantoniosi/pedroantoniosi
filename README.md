@@ -1,6 +1,5 @@
-Olá, me chamo Pedro Ferreira e faço parte da Yellow Dev ⚡
 
- 💻 Desenvolvedor Junior Frontend Full Stack <br>
+ 💻 Web Designer | Fullstack Developer <br>
   🟨 HTML 
   🟨 CSS 
   🟨 Javascript
