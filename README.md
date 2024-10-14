@@ -3,13 +3,12 @@ Olá, me chamo Pedro Ferreira e faço parte da Yellow Dev ⚡
  💻 Desenvolvedor Junior Frontend Full Stack <br>
   🟨 HTML 
   🟨 CSS 
-  🟨 JS
+  🟨 Javascript
   🟨 Jquery
-  🟨 VueJS
-  🟨 NextJS
-  🟨 React
+  🟨 Node.JS
+  🟨 React.JS
   🟨 Bootstrap
-  🟨 SASS
+  🟨 SASS| SCSS
   🟨 SQL e PostgreSQL
 
 <div align="center">
