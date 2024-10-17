@@ -7,7 +7,7 @@
   🟨 Node.JS
   🟨 React.JS
   🟨 Bootstrap
-  🟨 SASS| SCSS
+  🟨 SASS | SCSS
   🟨 SQL e PostgreSQL
 
 <div align="center">
